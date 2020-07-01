@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	font-family: Helvetica, sans-serif;
+
+}
+
+header{
+	background-color: white;
+	text-align: center;
+	padding-top: 50px
+}
+
+header h1{
+	color: black;
+	font-family: Helvetica, sans-serif;
+
+}
+header img{
+	border-radius: 100px;
+	width: 300px;
+	border: 10px solid #483a94;
+}
+
+main{
+	text-align: center;
+	
+
+}
+
+main img{
+	border-radius: 150px;
+}
+
+ol{ 
+	text-align: center;
+ }
+
+ footer{
+
+ 		text-align: center;
+
+ }
